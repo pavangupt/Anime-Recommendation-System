@@ -10,13 +10,13 @@ Now-a-days, almost all the ecommerce or OTT platforms uses recommendation system
  - ![cosine similarity](https://user-images.githubusercontent.com/91775600/154799508-4a9ba459-d1e3-471a-9258-bb2a03cb284b.png)
 
 ## Table of Content:-
- - 1. INTRODUCTION
- - 2. Importing necessary libraries
- - 3. Reading the dataset
- - 4. Merging rating and anime list data 
+ - INTRODUCTION
+ - Importing necessary libraries
+ - Reading the dataset
+ - Merging rating and anime list data 
    - a. Feature Selection
    - b. Handling Missing Values
    - c. Checking For Datatypes
- - 5. Feature Engineering
-   - a. Converting Categorical Variable
- - 6. Model Creation- KNN(Cosine Similiarity)
+ - Feature Engineering
+   - Converting Categorical Variable
+ - Model Creation- KNN(Cosine Similiarity)
